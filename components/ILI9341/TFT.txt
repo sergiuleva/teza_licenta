@@ -1,0 +1,5 @@
+2.4” diagonal LCD TFT display
+320×240 pixels
+TFT Driver IC: ILI9341
+Touch Screen controller IC: XPT2046
+Compatible with D1 mini, D1 mini Pro, D32 Pro.
