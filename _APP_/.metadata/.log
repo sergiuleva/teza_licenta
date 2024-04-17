@@ -1100,3 +1100,21 @@ Project's 'stm32-ili9341-master' active one is 'stm32-ili9341-master.ioc' file
 !MESSAGE Invalid Input: Must be project's active .ioc file.
 
 Project's 'stm32-ili9341-master' active one is 'stm32-ili9341-master.ioc' file
+!SESSION 2024-04-06 09:57:15.550 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-04-06 09:57:24.189
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-04-06 09:57:24.191
+!MESSAGE Log4j2 initialized with config file E:\CR\teza_licenta\_APP_\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-04-06 09:57:34.284
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-06 09:58:45.286
+!MESSAGE Indexed 'AS608 Fingerprint' (24 sources, 200 headers) in 4.76 sec: 10,025 declarations; 42,024 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0.36%)
